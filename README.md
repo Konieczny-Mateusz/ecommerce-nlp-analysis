@@ -141,5 +141,5 @@ r-ecommerce-nlp-sentiment-analysis/
 
 Projekt został stworzony jako element portfolio analitycznego w celu zaprezentowania zaawansowanych umiejętności w zakresie analizy języka naturalnego (NLP) i statystyki w języku R. Najważniejszym elementem jest udowodnienie, że dane tekstowe można skwantyfikować i wykorzystać do wyciągania twardych wniosków biznesowych.
 
-Mateusz
-Aspiring Data Analyst | Power BI | SQL | Python | Excel | R
+**Mateusz**  
+*Aspiring Data Analyst | Power BI | SQL | Python | Excel | R*

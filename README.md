@@ -1,4 +1,4 @@
-# 👗 E-commerce Reviews: NLP & Sentiment Analysis
+# E-commerce Reviews: NLP & Sentiment Analysis
 
 Projekt analityczny wykorzystujący techniki Text Mining oraz Machine Learning do dogłębnej analizy recenzji klientek internetowego sklepu odzieżowego. Skrypt przekształca nieustrukturyzowany tekst opinii w mierzalne wskaźniki biznesowe i profile psychologiczne konsumentów.
 
